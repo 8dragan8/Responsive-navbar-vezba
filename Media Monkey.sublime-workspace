@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"to",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"c",
+				"click\t.click()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"transit",
+				"transition"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: HTML - Dummy text"
+			],
+			[
+				"scrip",
+				"Snippet: HTML - Script"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: HTML - Anchor"
+			],
+			[
+				"link",
+				"Snippet: HTML - Stylesheet link"
+			],
+			[
+				"snippet incl",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 366.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Programiranje/HTML coding/Media monkey",
+		"/D/Programiranje/HTML coding/Media monkey/css",
+		"/D/Programiranje/HTML coding/Media monkey/js"
+	],
+	"file_history":
+	[
+		"/D/Programiranje/HTML coding/Media monkey/js/jquery.js",
+		"/D/Programiranje/HTML coding/Media monkey/index.html",
+		"/D/Programiranje/HTML coding/Media monkey/css/main.css",
+		"/D/Programiranje/HTML coding/Portfolio/index.sublime-project",
+		"/D/Programiranje/HTML coding/Portfolio FCC/Portfolio.sublime-project",
+		"/D/Programiranje/HTML coding/Portfolio FCC/index.html",
+		"/C/Users/Dre/Downloads/MediaMonkey Gold v4.1.15.1830 Final Ml_Rus/Serial.txt",
+		"//Dre-hp/d/dock/Python/akordi scraper/tablature/bjesovi/besan pas.txt",
+		"/C/Users/Dre/Desktop/SketchUp Pro 2018 v18.0.16975 (x64) Final Rus/Plugins Pack/PluginsPack/s4u_material/extension_info.txt",
+		"/C/Users/Dre/Desktop/SketchUp Pro 2018 v18.0.16975 (x64) Final Rus/About the program.txt",
+		"/C/Users/Dre/Desktop/SketchUp Pro 2018 v18.0.16975 (x64) Final Rus/Cracked 2018.0/Лечение.txt",
+		"/C/Users/Dre/Desktop/SketchUp Pro 2018 v18.0.16975 (x64) Final Rus/Plugins Pack/PluginsPack/DM_SketchUV/extension_info.txt",
+		"/C/Users/Dre/AppData/Local/Temp/_tc/Crack/readme.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Asap",
+			"text",
+			"Home",
+			"home",
+			"<a",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"<h1>",
+			"One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. \"What's happened to me? \" he thought.",
+			"active",
+			"jQuery",
+			"<!--\n\t     -->",
+			"#hover\"",
+			".media-tree-text",
+			"hover",
+			"this",
+			"<p>",
+			"media-tree-text",
+			".media-tree-text",
+			"this"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.801824169433,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Media Monkey.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
